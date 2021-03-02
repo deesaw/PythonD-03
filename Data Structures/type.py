@@ -1,0 +1,6 @@
+print type(42)
+print type(4.2)
+print type('spam')
+print type({'Name':'Ramesh'})
+print type((1,2))
+print type([1,2])

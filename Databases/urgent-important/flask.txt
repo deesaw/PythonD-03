@@ -1,0 +1,13 @@
+#running flask
+
+unix
+
+$ export FLASK_APP=hello.py
+$ export FLASK_DEBUG=1
+$ flask run
+
+windows
+
+set FLASK_APP=flask1.py
+set FLASK_DEBUG=1
+flask run
